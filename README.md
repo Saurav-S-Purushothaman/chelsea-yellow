@@ -1,12 +1,11 @@
 # Chelsea Yellow #
 
-This Emacs theme, Chelsea Yellow, is a single-tone delight for
-programmers who prefer a clean and focused coding
-environment. Inspired by the calming warmth of the color Chelsea
-Yellow, this theme strips away unnecessary colors, allowing your
-attention to stay laser-sharp on the code itself. The code is inspired
-from [grey-paper-theme](https://melpa.org/#/grey-paper-theme)
-
+This Emacs theme, Chelsea Yellow, is a monochrome for programmers who
+prefer a clean and focused coding environment. Inspired by the calming
+warmth of the color Chelsea Yellow, this theme strips away unnecessary
+colors, allowing your attention to stay sharp on the code itself. The
+code is inspired from
+[grey-paper-theme](https://melpa.org/#/grey-paper-theme)
 
 # Screenshot #
 
