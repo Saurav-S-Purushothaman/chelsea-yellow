@@ -1,4 +1,4 @@
-;;; chelsea-yellow-theme.el --- A greyscale theme with look-n-feel of an eink display -*- lexical-binding: t; -*-
+;;; chelsea-yellow-theme.el --- A monochrome theme based on the color chelsea yellow -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2024- Saurav S Purushothaman
 

@@ -5,12 +5,12 @@ programmers who prefer a clean and focused coding
 environment. Inspired by the calming warmth of the color Chelsea
 Yellow, this theme strips away unnecessary colors, allowing your
 attention to stay laser-sharp on the code itself. The code is inspired
-from ![grey-paper-theme](https://melpa.org/#/grey-paper-theme)
+from [grey-paper-theme](https://melpa.org/#/grey-paper-theme)
 
 
 # Screenshot #
 
-![chelsea-yellow-theme](https://imgur.com/a/zplMq7Q)
+![chelsea-yellow-theme](https://i.imgur.com/rpafhVr.png)
 
 # Installation #
 
