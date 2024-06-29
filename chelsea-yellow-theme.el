@@ -37,12 +37,12 @@
 (deftheme chelsea-yellow
   "A monochrome theme based on the color chelsea-yellow")
 
-(let ((bg "#8c6701")
-      (bg-dark "#594100")
-      (fg "#f5e2ae")
-      (fg-dark "#bfb086")
-      (fg-light "#f5f5d3")
-      (fg-alt "#faec93"))
+(let ((bg "#faec93")
+      (bg-dark "#f5f5d3")
+      (fg "#bfb086")
+      (fg-dark "#f5e2ae")
+      (fg-light "#594100")
+      (fg-alt "#8c6701"))
 
   (custom-theme-set-faces
    'chelsea-yellow
