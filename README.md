@@ -9,7 +9,7 @@ code is inspired from
 
 # Screenshot #
 
-![chelsea-yellow-theme](https://i.imgur.com/rpafhVr.png)
+![chelsea-yellow-theme](https://i.imgur.com/1SZDcq4.png)
 
 # Installation #
 
